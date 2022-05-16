@@ -36,8 +36,16 @@
     font-weight: lighter;
     word-spacing: 1.5;
     margin-top: 20px;
+    margin-bottom: 50px;
 }
 
+.doings_cads a {
+  border: 1px solid white;
+}
+
+.doings_cads a:hover {
+  background: none;
+}
 .doings_cads div button {
     border: white;
     border-style: ridge;

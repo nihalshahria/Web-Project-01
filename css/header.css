@@ -12,6 +12,8 @@ nav a:link {
     margin-right: 30px;
     color: black;
     text-decoration: none;
+    background: none;
+    padding: 0px 0px;
 }
 
 nav a:visited {

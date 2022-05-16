@@ -22,6 +22,7 @@
 .advice p{
     font-size: 17px;
     margin: 20px 0;
+    margin-bottom: 60px;
 }
 
 .books {
@@ -45,4 +46,8 @@
     flex-direction: column;
     padding: 90px 50px;
     gap: 20px;
+}
+
+.books div p{
+    margin-bottom: 20px;
 }
