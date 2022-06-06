@@ -4,10 +4,15 @@
     text-align: center;
     font-size: 19px;
     width: 100%;
-    align-items: center;
-    padding: 120px 600px;
+    display: flex;
+    justify-content: center;
+    padding: 120px 0;
+}
+
+.ending p{
 }
 
 .ending h3{
+    max-inline-size: 700px;
     font-weight: lighter;
 }

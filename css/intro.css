@@ -17,12 +17,17 @@
     margin-left: 20%;
     align-self: center;
 }
-
-/* .intro_des h1 {
-    font-size: 60px;
-} */
-
 .intro_des p {
     font-size: 17px;
     margin-bottom: 50px;
+}
+
+@media screen and (max-width: 1000px) {
+    .intro_des{
+        max-width: 500px;
+    }
+
+    /* .intro_des h1{
+        font-size: 15px;
+    } */
 }

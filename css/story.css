@@ -3,8 +3,8 @@
     display: flex;
     justify-content: center;
     padding: 150px 21%;
-    min-height: 750px;
-    min-width: 1800px; 
+    /* min-height: 750px;
+    min-width: 1800px;  */
     
 }
 
@@ -26,9 +26,3 @@
     line-height: 1.75;
 }
 
-.story button{
-    max-width: 300px;
-    padding-left: 30px;
-    padding-right: 30px;
-    font-weight: lighter;
-}

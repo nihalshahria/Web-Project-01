@@ -46,9 +46,3 @@
 .doings_cads a:hover {
   background: none;
 }
-.doings_cads div button {
-    border: white;
-    border-style: ridge;
-    border-width: 1px;
-    margin-top: 40px;
-}
